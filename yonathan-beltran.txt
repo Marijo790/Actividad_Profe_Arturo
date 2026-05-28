@@ -1,0 +1,4 @@
+Nombre: Yonathan Beltran
+Edad: 20
+Fecha de nacimiento: 15/007/2005
+Color favorito: Azul
